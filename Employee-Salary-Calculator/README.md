@@ -37,3 +37,6 @@ Enter employee two's monthly salary: 6500
 Employee Two's Name: Smith, Jane 
 Employee Two's Yearly Salary: $78000.00
 ```
+## Contact
+**GitHub:** [github.com/acallo21](https://github.com/acallo21)  
+**LinkedIn:** [linkedin.com/in/aaron-calloway-ac2136](https://www.linkedin.com/in/aaron-calloway-ac2136/)
