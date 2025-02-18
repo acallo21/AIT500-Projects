@@ -29,6 +29,7 @@ The program also includes **error handling** to ensure only valid integers are e
 4. Run the **`ThreeIntegers.java`** file.
 
 ## Example Output
+```
 Start.
 Enter first integer: 10
 Enter second integer: 5
@@ -38,3 +39,4 @@ Average = 11
 Product = 1000
 Smallest = 5
 Largest = 20
+```
